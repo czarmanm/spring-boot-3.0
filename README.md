@@ -11,4 +11,4 @@ This PoC is a Spring app example with React frontend embedded.
 ![Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 # See also
-![Frontend Maven plugin](https://github.com/eirslett/frontend-maven-plugin) to get Angular frontend embedded into Spring application.
+[Frontend Maven plugin](https://github.com/eirslett/frontend-maven-plugin) to get Angular frontend embedded into Spring application.
