@@ -1,7 +1,7 @@
 # Spring 3 and Angular example
 PoC created with Spring Boot 3.0.2, Java 17, and React 18.2.0.\
 \
-This PoC is a Spring app example with Angular frontend embedded.
+This PoC is a Spring app example with React frontend embedded.
 
 ## Technologies
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)\
